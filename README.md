@@ -1,2 +1,2 @@
-# Basic-Dash
+# basic-dash-mechanic
 This repo will provide a dash mechanic for a 3D hack-and-slash. It provides a smooth performance and elegancy. Like it features a spirit...
